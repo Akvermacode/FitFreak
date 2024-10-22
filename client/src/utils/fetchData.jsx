@@ -13,7 +13,7 @@ const youtubeExerciseOptions = {
 	method: 'GET',
 	headers: {
 	
-		    'X-RapidAPI-Key': YOUTUBE_EXERCEISE_API_KEY
+		 'X-RapidAPI-Key': YOUTUBE_EXERCEISE_API_KEY
 		'X-RapidAPI-Host': 'youtube-search-and-download.p.rapidapi.com'
 	  }
 };
@@ -25,7 +25,9 @@ const fetchData  = async (url, options) => {
     return data;
 }
 
-const BASE_URL="http://localhost:5000";
+// const BASE_URL="http://localhost:5000";
+
+const BASE_URL = "https://gym-master.onrender.com"
 
 export {fetchData,exerciseOptions,youtubeExerciseOptions,BASE_URL}
 
