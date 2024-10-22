@@ -8,7 +8,7 @@ import { CartProvider } from './context/cart.jsx';
 ReactDOM.createRoot(document.getElementById('root')).render(
     <AuthProvider>
       <CartProvider>
-    <App />
+    <App/>
       </CartProvider>
     </AuthProvider>
 )
