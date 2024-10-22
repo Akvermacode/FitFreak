@@ -42,7 +42,6 @@
 <img src="https://github.com/user-attachments/assets/7db5544e-dd9f-4b92-9cf8-60d6d4208bbc">
 <img src="https://github.com/user-attachments/assets/cecffa94-b104-4795-b104-a617a54c3f1a">
 <img src="https://github.com/user-attachments/assets/4f9d039c-f732-45bf-adcb-9852c032228d">
-<img src="https://github.com/user-attachments/assets/e021a56e-6253-4cdb-86ba-f34331de7c12">
 
 </div>
 
