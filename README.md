@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/a75b562c-6fbd-41dc-ae74-ac51ee858002
 
  
 <h2 style="margin-top:20px;font-size:20px">Quick Start</h2>
-<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/gym-master.git">https://github.com/abhishekrajput-web/gym-master</a></p>
+<p>Fork the repository - <a href="https://github.com/abhishekrajput-web/GymMaster.git">https://github.com/abhishekrajput-web/GymMaster</a></p>
 
 # GYM MANAGEMENT APP 
 
