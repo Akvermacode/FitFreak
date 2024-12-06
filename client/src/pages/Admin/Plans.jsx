@@ -15,7 +15,7 @@ console.log(plans);
    //  handle get Plans
    const getAllPlans = async () => {
     try {
-      const res = await axios.get(`http://localhost:5000/api/v1/plan/getall-plan`);
+      const res = await axios.get(`${BASE_URL}/api/v1/plan/getall-plan`);
       setLoading(true);
 
       if (res.data && res.data.success) {

@@ -9,7 +9,7 @@ const exerciseOptions = {
 const youtubeExerciseOptions = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": YOUTUBE_EXERCEISE_API_KEY,
+    "X-RapidAPI-Key": YOUTUBE_API_KEY,
     "X-RapidAPI-Host": "youtube-search-and-download.p.rapidapi.com",
   },
 };
