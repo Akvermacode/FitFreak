@@ -1,5 +1,5 @@
-// import.meta.env.VITE_EXERCISE_API_KEY;
-// import.meta.env.VITE_YOUTUBE_API_KEY;
+import.meta.env.VITE_EXERCISE_API_KEY;
+import.meta.env.VITE_YOUTUBE_API_KEY;
 
 
 const exerciseOptions = {
