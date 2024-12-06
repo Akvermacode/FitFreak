@@ -1,11 +1,7 @@
-import.meta.env.VITE_EXERCISE_API_KEY;
-import.meta.env.VITE_YOUTUBE_API_KEY;
-
-
 const exerciseOptions = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": VITE_EXERCISE_API_KEY,
+    "X-RapidAPI-Key": import.meta.env.VITE_EXERCISE_API_KEY,
     "X-RapidAPI-Host": "exercisedb.p.rapidapi.com",
   },
 };
@@ -13,7 +9,7 @@ const exerciseOptions = {
 const youtubeExerciseOptions = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": VITE_YOUTUBE_API_KEY,
+    "X-RapidAPI-Key": import.meta.env.VITE_YOUTUBE_API_KEY,
     "X-RapidAPI-Host": "youtube-search-and-download.p.rapidapi.com",
   },
 };
